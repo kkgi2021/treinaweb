@@ -1,0 +1,8 @@
+@font-face{
+    font-family: Pacifico;
+    src: url("fontes/Pacifico-Regular.ttf");
+}
+
+p{
+    font-family: Pacifico;
+}
